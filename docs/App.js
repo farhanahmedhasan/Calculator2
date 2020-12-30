@@ -1,4 +1,4 @@
-//Selecting The DOM Elements
+//Selecting The DOM Elements 
 const output_Operation_Element = document.querySelector('.operation .value')
 const output_Result_Element = document.querySelector('.result .value')
 const input_Element = document.querySelector('.input')
